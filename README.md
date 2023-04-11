@@ -5,3 +5,4 @@
 при написании любого сообщения выдает череп и рандомное(из словаря 200+ слов) слово
 работает на aiogram.
 сам бот для тестирования: https://t.me/cherepnoi_bot
+примерная настройка daemon systemd: https://www.outside.ga/main/yourdeathword.service
